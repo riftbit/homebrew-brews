@@ -7,7 +7,7 @@
 Add brew tap:
 
 ```
-$ brew tap riftbit/tap
+$ brew tap riftbit/brews
 ```
 
 Install `commitizen-go` for example:
